@@ -7,8 +7,8 @@ LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
 char MORSE_TABLE[] = "etianmsurwdkgohvf!l@pjbxcyzq# ";
 
 /* 
-E .     00
-T -     10
+E .     0
+T -     1
 
 I ..    00
 A .-    01
